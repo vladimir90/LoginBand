@@ -1,0 +1,126 @@
+
+div{
+	
+
+}
+
+
+
+
+/*==========SECTION 1==========*/
+
+#section1 h1, #section1 p{
+	
+	color:#fff;
+}
+.logo{
+	padding-top: 50px;
+	width:300px;
+
+}
+.brand-logo{
+	color:transparent;
+}
+
+#header {
+    width: 100%;
+    z-index: 100;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+}
+
+#header-wrap {
+    position: relative;
+}
+.social a{
+	padding: 5px;
+}
+
+.fa-facebook{
+	color:#ff1744 ;
+	
+}
+.fa-facebook:hover{
+	color:#fff;
+}
+.fa-google-plus, .fa-twitter{
+	color:#000;
+}
+.fa-google-plus:hover, .fa-twitter:hover{
+	color:#ff1744 ;
+}
+
+
+/*=========SECTION 2=========*/
+
+#section2 img{
+
+	width:200px;
+}
+
+
+
+
+
+
+/*===========SECTION 4=========*/
+#section4{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#section4 img{
+	width:100%;
+	height:300px;
+
+}
+
+#section4 a{
+	color:#ff1744;
+}
+
+
+
+/*============SECTION 6==============*/
+#section5{
+	
+	padding-bottom: 50px;
+}
+#section5 h1{
+	color:#000;
+}
+#section5 img{
+
+}
+#section5 h4{
+	color:#ff1744;
+}
+
+
+
+
+/*============SECTION 7============*/
+#section7{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+#section7 h4{
+	color:#EE1C1B;
+}
+#section7 a{
+	color:#EE1C1B;
+}
+
+
+
+/*================SECTION 8=============*/
+
+#section8{
+	padding-top: 50px;
+	
+}
+#section8 .material-icons{
+	padding-top: 10px;
+}
